@@ -13,4 +13,11 @@ Você pode visualizar diretamente no GitHub Pages clicando no link abaixo:
 #### Visualizar localmente
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/leonardozanol/exercicios-htmlcss-aula06.git```
+    $ git clone https://github.com/leonardozanol/exercicios-htmlcss-aula06.git
+   ````
+2. Navegue até a pasta do prejeto:
+    ```bash
+    $ cd exercicios-htmlcss-aula06/exercicio-001
+    ````
+
+3. Abra o arquivo "index.html" localmente no seu navegador.
