@@ -8,16 +8,36 @@ Este repositório contém dois exercícios práticos propostos na **aula 006 da 
 
 ### GitHub Pages
 Você pode visualizar diretamente no GitHub Pages clicando no link abaixo:
-- **[Página - Perfil Simples](https://leonardozanol.github.io/exercicios-htmlcss-aula06/exercicio-001/)**
+- **[Perfil Simples](https://leonardozanol.github.io/exercicios-htmlcss-aula06/exercicio-001/)**
 
 #### Visualizar localmente
 1. Clone este repositório:
-   ```bash
+    ```bash
     $ git clone https://github.com/leonardozanol/exercicios-htmlcss-aula06.git
-   ````
+    ````
 2. Navegue até a pasta do prejeto:
     ```bash
     $ cd exercicios-htmlcss-aula06/exercicio-001
+    ````
+
+3. Abra o arquivo "index.html" localmente no seu navegador.
+
+## Exercício 002 - Receita
+
+### Como visualizar o Exercício 002:
+
+### GitHub Pages
+Você pode visualizar diretamente no GitHub Pages clicando no link abaixo:
+- **[Perfil Simples](https://leonardozanol.github.io/exercicios-htmlcss-aula06/exercicio-002/)**
+
+#### Visualizar localmente
+1. Clone este repositório:
+    ```bash
+    $ git clone https://github.com/leonardozanol/exercicios-htmlcss-aula06.git
+    ````
+2. Navegue até a pasta do prejeto:
+    ```bash
+    $ cd exercicios-htmlcss-aula06/exercicio-002
     ````
 
 3. Abra o arquivo "index.html" localmente no seu navegador.
